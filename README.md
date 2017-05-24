@@ -11,7 +11,7 @@ The model used for the back-end is a MVC type with a sequelize database.
 
 ## Live Link
 
-- 
+- https://jn-burger-sequel.herokuapp.com/
 
 ## Resources
 
