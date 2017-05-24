@@ -7,15 +7,6 @@ The User can perform CRUD operations to the data.
 
 The model used for the back-end is a MVC type with a sequelize database. 
 
-- Model
-
-<img width="208" alt="screen shot 2017-05-05 at 14 09 40" src="https://cloud.githubusercontent.com/assets/16736074/25764436/92e6244c-319c-11e7-8141-1d1de13d00b4.png">
-
-
-- Controller/View
-
-<img width="531" alt="screen shot 2017-05-05 at 14 10 47" src="https://cloud.githubusercontent.com/assets/16736074/25764455/b5187bd2-319c-11e7-9ad6-1dd4b3fd2c0c.png">
-
 
 
 ## Live Link
